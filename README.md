@@ -132,5 +132,4 @@ Ensure you have Node.js and npm installed on your machine.
 ## Running Tests
 You can implement and execute tests to verify that everything is functioning as expected.
 
-## License
-This project is licensed under the MIT License.
+
