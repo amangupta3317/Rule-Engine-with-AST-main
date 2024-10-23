@@ -12,15 +12,15 @@ This application functions as a rule engine that assesses user eligibility based
 ## Features
 - *Rule Creation*: Users can define rules using a string format, which is then transformed into an AST.
   
-  ![Rule Creation](image) <!-- Replace with actual image link -->
+ 
 
 - *Rule Combination*: Allows the merging of multiple rules into a singular AST to enable more intricate evaluations.
 
-  ![Rule Combination](image) <!-- Replace with actual image link -->
+ 
 
 - *Rule Evaluation*: Assesses whether the provided data aligns with the criteria set by the AST.
 
-  ![Rule Evaluation](image) <!-- Replace with actual image link -->
+ 
 
 - *Tree Visualization*: When defining or combining rules, a tree representation will be displayed for better understanding.
 
